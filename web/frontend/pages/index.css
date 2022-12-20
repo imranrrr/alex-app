@@ -1,0 +1,31 @@
+.protection{
+    width: 100%;
+}
+.protection__container {
+    margin-top: 1rem;
+    display: flex;
+    background-color: white;
+    border-radius: 6px;
+    height: 80px;
+    padding: 1rem;
+    justify-content: space-between;
+  }
+  .protection__title > h1 {
+    font-size: 21px;
+  }
+  .protection__container__button {
+    border-radius: 6px;
+    border: none;
+  }
+  .protection__container__button > button {
+    background-color: #027f5b;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .protection__container__title{
+    font-size: 16px;
+  }
